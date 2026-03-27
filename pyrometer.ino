@@ -1,3 +1,6 @@
+//Written by Muhammad Husni
+
+
 #include<avr/wdt.h> /* Header for watchdog timers in AVR */
 
 #define ONE_WIRE_PIN 7
